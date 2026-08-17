@@ -46,8 +46,8 @@ def task_scheduler_expert(tasks, delays):
 
 
 if __name__ == '__main__':
-    tasks = [task1, task2]
-    delay = 2
-    delays = [2, 3]
-    task_scheduler(tasks, delay)
-    task_scheduler_expert(tasks, delays)
+    demo_tasks = [task1, task2]
+    demo_delay = 2
+    demo_delays = [2, 3]
+    task_scheduler(demo_tasks, demo_delay)
+    task_scheduler_expert(demo_tasks, demo_delays)
