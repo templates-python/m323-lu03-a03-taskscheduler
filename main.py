@@ -1,3 +1,8 @@
+"""Task Scheduler.
+
+Aufgabenstellung: https://wiki.bzz.ch/modul/m323/learningunits/lu03/aufgaben/taskscheduler
+"""
+
 def task1():
     """
     Eine einfache Funktion, die eine Meldung ausgibt, um zu signalisieren, dass Task 1 ausgeführt wurde.
